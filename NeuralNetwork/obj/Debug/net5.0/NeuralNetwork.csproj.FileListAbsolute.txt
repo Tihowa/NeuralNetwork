@@ -1,0 +1,16 @@
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.exe
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.deps.json
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.runtimeconfig.json
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.runtimeconfig.dev.json
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.dll
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\bin\Debug\net5.0\ref\NeuralNetwork.dll
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\bin\Debug\net5.0\NeuralNetwork.pdb
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.AssemblyReference.cache
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfoInputs.cache
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.AssemblyInfo.cs
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.dll
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\ref\NeuralNetwork.dll
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.pdb
+D:\Tikhon\Proga\C#\NeuralNetwork\NeuralNetwork\obj\Debug\net5.0\NeuralNetwork.genruntimeconfig.cache
